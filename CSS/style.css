@@ -4,17 +4,22 @@ body {
 }
 
 h1 {
-  font-weight: bolder;
+  font-size: 26px;
 }
 
 p {
-  font-size: small;
+  font-size: 10px;
 }
 
 .navigation {
   border: 1px solid #885df1;
   background: #885df1;
   color: white;
+}
+
+footer a {
+  margin: 0 10px;
+  color: teal;
 }
 
 footer {
