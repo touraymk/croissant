@@ -1,0 +1,22 @@
+body {
+  background: #F8E8A6;
+  font-family: 'PT Mono', 'Times New Roman', Times, serif;
+}
+
+h1 {
+  font-weight: bolder;
+}
+
+p {
+  font-size: small;
+}
+
+.navigation {
+  border: 1px solid #885df1;
+  background: #885df1;
+  color: white;
+}
+
+footer {
+  font-size: 12px;
+}
